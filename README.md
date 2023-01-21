@@ -17,7 +17,12 @@ Country: Customer's country
 Age: Customer's age
 
 
+
+
+
+
 Libraries and Versions Used:
+
 Pandas - 1.4.2
 
 Numpy - 1.21.5
